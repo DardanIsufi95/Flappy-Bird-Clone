@@ -12,7 +12,7 @@
     "pipePeakSprite": true,
     "pipeBodySprite": true,
     "Bird": true,
-    "Pipe": true,
+    "Pipe": true
   },
   "extends": [
     "eslint:recommended",
@@ -43,7 +43,7 @@
       {
         "code": 100,
         "ignoreUrls": true
-      },
+      }
     ],
     "max-params": [
       "error",
@@ -78,5 +78,6 @@
       "error",
       "always"
     ]
-  },
+  }
 }
+
